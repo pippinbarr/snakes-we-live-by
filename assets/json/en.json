@@ -8,8 +8,8 @@
         "games": [
             "conservatism",
             "individualism",
-            "nudist",
-            "purist"
+            "nudism",
+            "purism"
         ],
         "controls": {
             "keyboard": [
@@ -54,28 +54,24 @@
         }
     },
     "nudism": {
-        "state": "snake",
         "menuName": "NUDISM",
         "outro": [
             "SNAKED."
         ]
     },
     "purism": {
-        "state": "snake",
         "menuName": "PURISM",
         "outro": [
             "SNAKED."
         ]
     },
     "conservatism": {
-        "state": "snake",
         "menuName": "CONSERVATISM",
         "outro": [
             "SNAKED."
         ]
     },
     "individualism": {
-        "state": "snake",
         "menuName": "INDIVIDUALISM",
         "outro": [
             "SNAKED."

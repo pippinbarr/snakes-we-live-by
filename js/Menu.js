@@ -149,7 +149,7 @@ class Menu extends Snake {
 
   right() {
     let callback = () => {
-      const stateName = this.games[this.selected].state;
+      const stateName = "snake";
       this.scene.start(stateName, this.strings[stateName]);
     }
 
