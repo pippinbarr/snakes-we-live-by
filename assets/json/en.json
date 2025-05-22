@@ -1,0 +1,64 @@
+{
+    "lang": "en",
+    "title": [
+        "SNAKES WE LIVE BY"
+    ],
+    "ui": {
+        "games": [
+            "snake"
+        ],
+        "controls": {
+            "keyboard": [
+                "ARROWS",
+                "CONTROL"
+            ],
+            "touch": [
+                "SWIPES",
+                "CONTROL"
+            ]
+        },
+        "reset": {
+            "keyboard": [
+                "R=RESTART M=MENU"
+            ],
+            "touch": {
+                "restart": [
+                    "RESTART"
+                ],
+                "menu": [
+                    "MENU"
+                ]
+            }
+        },
+        "gameover": "GAME OVER",
+        "youwin": "YOU WIN",
+        "youlose": "YOU LOSE",
+        "points": "POINTS"
+    },
+    "menu": {
+        "ist": "MENUIST",
+        "homepage": "pippinbarr.com",
+        "instructions": {
+            "keyboard": [
+                "UP/DOWN ARROW=MOVE",
+                "RIGHT ARROW=SELECT"
+            ],
+            "touch": [
+                "SWIPE UP/DOWN=MOVE",
+                "SWIPE RIGHT=SELECT"
+            ]
+        }
+    },
+    "snake": {
+        "state": "snake",
+        "menuName": "SNAKE",
+        "definition": {
+            "word": "snake",
+            "part": "noun",
+            "definition": "Snake"
+        },
+        "outro": [
+            "SNAKED."
+        ]
+    }
+}
