@@ -1,11 +1,15 @@
 {
     "lang": "en",
     "title": [
+        "SNAKISMS 2:",
         "SNAKES WE LIVE BY"
     ],
     "ui": {
         "games": [
-            "snake"
+            "conservatism",
+            "individualism",
+            "nudist",
+            "purist"
         ],
         "controls": {
             "keyboard": [
@@ -49,14 +53,30 @@
             ]
         }
     },
-    "snake": {
+    "nudist": {
         "state": "snake",
-        "menuName": "SNAKE",
-        "definition": {
-            "word": "snake",
-            "part": "noun",
-            "definition": "Snake"
-        },
+        "menuName": "NUDISM",
+        "outro": [
+            "SNAKED."
+        ]
+    },
+    "purist": {
+        "state": "snake",
+        "menuName": "PURISM",
+        "outro": [
+            "SNAKED."
+        ]
+    },
+    "conservatism": {
+        "state": "snake",
+        "menuName": "CONSERVATISM",
+        "outro": [
+            "SNAKED."
+        ]
+    },
+    "individualism": {
+        "state": "snake",
+        "menuName": "INDIVIDUALISM",
         "outro": [
             "SNAKED."
         ]

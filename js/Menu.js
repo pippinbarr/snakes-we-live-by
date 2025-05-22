@@ -8,8 +8,8 @@ class Menu extends Snake {
     this.SNAKE_TICK = 0.03;
     this.SNAKE_TITLE_Y = 2;
     this.SNAKE_START_X = 0;
-    this.SNAKE_START_Y = 4;
-    this.SNAKE_MENU_Y = 4;
+    this.SNAKE_START_Y = 5;
+    this.SNAKE_MENU_Y = 5;
   }
 
   create() {
@@ -71,6 +71,7 @@ class Menu extends Snake {
   createMenu() {
     const titleX = 2;
     const titleY = this.SNAKE_TITLE_Y;
+
     this.addTextToGrid(titleX, titleY, this.title);
 
     const menuTop = this.SNAKE_MENU_Y;
