@@ -53,14 +53,14 @@
             ]
         }
     },
-    "nudist": {
+    "nudism": {
         "state": "snake",
         "menuName": "NUDISM",
         "outro": [
             "SNAKED."
         ]
     },
-    "purist": {
+    "purism": {
         "state": "snake",
         "menuName": "PURISM",
         "outro": [
