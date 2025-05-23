@@ -6,6 +6,8 @@
     ],
     "ui": {
         "games": [
+            "abranchialism",
+            "academicism",
             "conservatism",
             "individualism",
             "nudism",
@@ -75,6 +77,34 @@
         "menuName": "INDIVIDUALISM",
         "outro": [
             "SNAKED."
+        ]
+    },
+    "abranchialism": {
+        "menuName": "abranchialism",
+        "outro": [
+            "SNAKED."
+        ]
+    },
+    "academicism": {
+        "menuName": "academicism",
+        "outro": [
+            "SNAKED."
+        ]
+    },
+    "achromatism": {
+        "menuName": "achromatism",
+        "outro": [
+            ""
+        ]
+    },
+    "actualism": {
+        "menuName": "actualism",
+        "outro": []
+    },
+    "adamitism": {
+        "menuName": "adamitism",
+        "outro": [
+            "JUST AS GOD MADE YOU"
         ]
     }
 }

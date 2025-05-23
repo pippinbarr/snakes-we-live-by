@@ -79,7 +79,7 @@ class Menu extends Snake {
     let y = menuTop;
 
     for (let game of this.games) {
-      this.addTextToGrid(x, y, [game.title], this.menuText)//, this.menuButtons, this.menuItemTouched);
+      this.addTextToGrid(x, y, [game.title.toUpperCase()], this.menuText)//, this.menuButtons, this.menuItemTouched);
       y++;
     }
 
