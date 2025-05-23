@@ -1,3 +1,5 @@
 # To-dos
 
-To do.
+## Research
+
+- Gather -isms
