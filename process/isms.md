@@ -46,25 +46,25 @@ Here are a lot of isms. How many of them are also Snake? From [the list of isms 
 - agism
 - Aglipayanism
 - Agnoetism
-- agnosticism
+- **agnosticism**
 - agonism
 - agrammatism
 - agrarianism
-- agritourism
+- **agritourism**
 - agropastoralism
-- agroterrorism
-- ahistoricism
+- **agroterrorism**
+- **ahistoricism**
 - akosmism
 - alarmism
 - Albigensianism
 - albinism
 - albinoism
-- alcoholism
+- **alcoholism**
 - aldosteronism
 - alexandrianism
 - algorism
 - alienism
-- allegorism
+- **allegorism**
 - allelism
 - allelomorphism
 - allodialism
@@ -80,7 +80,7 @@ Here are a lot of isms. How many of them are also Snake? From [the list of isms 
 - alpinism
 - altrigenderism
 - altruism
-- amateurism
+- **amateurism**
 - amazonism
 - Americanism
 - amerism
@@ -120,7 +120,7 @@ Here are a lot of isms. How many of them are also Snake? From [the list of isms 
 - aniconism
 - anilinism
 - animalculism
-- animalism
+- **animalism**
 - animatism
 - animism
 - anisognathism
@@ -149,7 +149,7 @@ Here are a lot of isms. How many of them are also Snake? From [the list of isms 
 - antilogism
 - antimaterialism
 - antimilitarism
-- antimodernism
+- **antimodernism**
 - antinomianism
 - antipedobaptism
 - antiprism
@@ -162,7 +162,7 @@ Here are a lot of isms. How many of them are also Snake? From [the list of isms 
 - antiterrorism
 - aphanitism
 - apheliotropism
-- aphorism
+- **aphorism**
 - aphototropism
 - aphydrotropism
 - aplanatism
@@ -182,7 +182,7 @@ Here are a lot of isms. How many of them are also Snake? From [the list of isms 
 - arachnoidism
 - Aramaicism
 - Aramaism
-- arcadianism
+- **arcadianism**
 - archaicism
 - archaism
 - archeomagnetism
@@ -209,9 +209,9 @@ Here are a lot of isms. How many of them are also Snake? From [the list of isms 
 - atavism
 - Athanasianism
 - atheism
-- athleticism
+- **athleticism**
 - Atlanticism
-- atomism
+- **atomism**
 - atonalism
 - atropinism
 - atticism
@@ -219,7 +219,7 @@ Here are a lot of isms. How many of them are also Snake? From [the list of isms 
 - audism
 - Augustinianism
 - Australianism
-- auteurism
+- **auteurism**
 - autism
 - autocephalism
 - autochthonism
@@ -263,7 +263,7 @@ Here are a lot of isms. How many of them are also Snake? From [the list of isms 
 - bathmotropism
 - bathyseism
 - Baxterianism
-- behaviorism
+- **behaviorism**
 - behaviourism
 - Behmenism
 - belletrism
@@ -339,7 +339,7 @@ Here are a lot of isms. How many of them are also Snake? From [the list of isms 
 - brominism
 - bromism
 - Brownism
-- brutalism
+- **brutalism**
 - bruxism
 - Buchmanism
 - buckism
@@ -362,12 +362,12 @@ Here are a lot of isms. How many of them are also Snake? From [the list of isms 
 - Canadianism
 - cancerism
 - cannabism
-- cannibalism
+- **cannibalism**
 - Cannonism
 - cantharidism
 - Caodaism
 - capitalism
-- careerism
+- **careerism**
 - Carlism
 - Carlylism
 - carnivorism
@@ -427,7 +427,7 @@ Here are a lot of isms. How many of them are also Snake? From [the list of isms 
 - civism
 - cladism
 - classicalism
-- classicism
+- **classicism**
 - classism
 - clericalism
 - clientelism
@@ -466,7 +466,7 @@ Here are a lot of isms. How many of them are also Snake? From [the list of isms 
 - connectionism
 - connexionalism
 - connubialism
-- conservatism
+- **conservatism**
 - consociationism
 - consonantism
 - consortism
@@ -481,7 +481,7 @@ Here are a lot of isms. How many of them are also Snake? From [the list of isms 
 - coolieism
 - Copernicanism
 - copperheadism
-- copyism
+- **copyism**
 - Corinthianism
 - corporatism
 - corporativism
@@ -493,7 +493,7 @@ Here are a lot of isms. How many of them are also Snake? From [the list of isms 
 - cosmozoism
 - Coueism
 - crankism
-- creationism
+- **creationism**
 - credentialism
 - creedalism
 - cremationism
@@ -518,6 +518,7 @@ Here are a lot of isms. How many of them are also Snake? From [the list of isms 
 - cyrillianism
 - cytotropism
 - czarism
+
 - Dadaism
 - Daltonism
 - dandyism
