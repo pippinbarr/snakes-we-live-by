@@ -530,7 +530,7 @@ Here are a lot of isms. How many of them are also Snake? From [the list of isms 
 - decadentism
 - decentralism
 - decisionism
-- defeatism
+- **defeatism**
 - deism
 - demagogism
 - demagoguism
@@ -576,7 +576,7 @@ Here are a lot of isms. How many of them are also Snake? From [the list of isms 
 - didactylism
 - diffusionism
 - digoneutism
-- dilettantism
+- **dilettantism**
 - diluvianism
 - dimerism
 - dimorphism
@@ -638,7 +638,7 @@ Here are a lot of isms. How many of them are also Snake? From [the list of isms 
 - egalitarianism
 - egocentrism
 - egoism
-- egotism
+- **egotism**
 - Egyptianism
 - Eleaticism
 - electropism

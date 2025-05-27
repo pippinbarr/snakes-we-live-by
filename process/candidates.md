@@ -50,6 +50,10 @@ The new Nudism, but religious. There are categories that can *imply* things abou
  
  The idea that the snake is an agnostic (or religious or aetheist etc.) Maybe this could be use to compare two versions of Snake aligned with different religion. A suggestion of two different snakes and asking the question of whether it makes a different what the snake believes in.
  
+ See also:
+ - deism
+ etc.
+ 
  ### agritourism
  
  > Agritourism is a form of tourism that involves visiting a working farm or agricultural operation for educational, recreational, or entertainment purposes. It encompasses a wide range of activities, including farm visits, educational tours, festivals, and farm-to-table experiences. Agritourism helps to connect the public with agriculture, promotes rural tourism, and provides supplemental income for farmers. 
@@ -208,9 +212,32 @@ That's true. Hehe.
 
 Meta? The idea that I'm god who created this game divinely?
 
+## defeatism
+
+> a person who expects or is excessively ready to accept failure.
+
+The Player.
+
+I like that some of these things specifically speak to the player themselves? You will die, you churl?
+
+## dilettantism
+
+> Dilettantism is the practice of engaging in a field of study or activity in a superficial or non-serious way, often for amusement or without deep expertise. It's about dabbling in something, having an amateur interest, rather than being deeply invested and knowledgeable. 
+
+The Designer?
+
+Is it fair to title a game after a quality of the designer? I think yeah...
+
+## egotism
+
+> the practice of talking and thinking about oneself excessively because of an undue sense of self-importance.
+
+But also a philosophical position?
+
+The Player. The Designer. The Snake. ?
+
 ---
 
-Up to the Ds
+Up to elitism
 
 ---
-
