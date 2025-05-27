@@ -667,7 +667,7 @@ Here are a lot of isms. How many of them are also Snake? From [the list of isms 
 - Englishism
 - eonism
 - epicenism
-- epicureanism
+- **epicureanism**
 - epicurism
 - epigonism
 - epigrammatism
@@ -684,15 +684,15 @@ Here are a lot of isms. How many of them are also Snake? From [the list of isms 
 - equestrianism
 - equiprobabilism
 - Erastianism
-- eremitism
+- **eremitism**
 - erethism
 - ergatomorphism
 - ergotism
-- eroticism
+- **eroticism**
 - erotism
 - erraticism
 - erythrism
-- escapism
+- **escapism**
 - esotericism
 - esoterism
 - Essenism
@@ -710,7 +710,7 @@ Here are a lot of isms. How many of them are also Snake? From [the list of isms 
 - Eunomianism
 - eunuchism
 - eunuchoidism
-- euphemism
+- **euphemism**
 - euphuism
 - Eurocentrism
 - Eurocommunism
@@ -725,7 +725,7 @@ Here are a lot of isms. How many of them are also Snake? From [the list of isms 
 - evangelicism
 - evangelism
 - evolutionism
-- exceptionalism
+- **exceptionalism**
 - exclusivism
 - exemplarism
 - exhibitionism
@@ -773,7 +773,7 @@ Here are a lot of isms. How many of them are also Snake? From [the list of isms 
 - ferrimagnetism
 - ferromagnetism
 - fetichism
-- fetishism
+- **fetishism**
 - feudalism
 - feuilletonism
 - Fichteanism
@@ -793,7 +793,7 @@ Here are a lot of isms. How many of them are also Snake? From [the list of isms 
 - folklorism
 - Fordism
 - foreignism
-- formalism
+- **formalism**
 - formism
 - formularism
 - formulism
@@ -812,10 +812,10 @@ Here are a lot of isms. How many of them are also Snake? From [the list of isms 
 - Freudism
 - frotteurism
 - funambulism
-- functionalism
+- **functionalism**
 - functionarism
 - fundamentalism
-- futilitarianism
+- **futilitarianism**
 - futurism
 - Galenism
 - Gallicanism
@@ -842,7 +842,7 @@ Here are a lot of isms. How many of them are also Snake? From [the list of isms 
 - geotropism
 - Germanism
 - Ghibellinism
-- giantism
+- **giantism**
 - gigantism
 - gipsyism
 - gism
@@ -891,7 +891,7 @@ Here are a lot of isms. How many of them are also Snake? From [the list of isms 
 - Hebraism
 - Hebrewism
 - Heckerism
-- hedonism
+- **hedonism**
 - Hegelianism
 - Hegelism
 - heightism
@@ -1032,7 +1032,7 @@ Here are a lot of isms. How many of them are also Snake? From [the list of isms 
 - ichthyism
 - ichthyotoxism
 - iconomaticism
-- idealism
+- **idealism**
 - identism
 - idiomorphism
 - idiorrhythmism
@@ -1074,7 +1074,7 @@ Here are a lot of isms. How many of them are also Snake? From [the list of isms 
 - inotropism
 - inquilinism
 - instrumentalism
-- insularism
+- **insularism**
 - intellectualism
 - intentionalism
 - interactionism
@@ -1154,7 +1154,7 @@ Here are a lot of isms. How many of them are also Snake? From [the list of isms 
 - labialism
 - laborism
 - labourism
-- laconicism
+- **laconicism**
 - laconism
 - laicism
 - Lamaism
@@ -1214,9 +1214,12 @@ Here are a lot of isms. How many of them are also Snake? From [the list of isms 
 - Lutheranism
 - Lutherism
 - lymphatism
-- lyricism
+- **lyricism**
 - lyrism
 - Lysenkoism
+
+---
+
 - macaronism
 - Macaulayism
 - Machiavellism

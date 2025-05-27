@@ -236,8 +236,100 @@ But also a philosophical position?
 
 The Player. The Designer. The Snake. ?
 
----
+## epicureanism
 
-Up to elitism
+> an ancient school of philosophy founded in Athens by Epicurus. The school rejected determinism and advocated hedonism (pleasure as the highest good), but of a restrained kind: mental pleasure was regarded more highly than physical, and the ultimate pleasure was held to be freedom from anxiety and mental pain, especially that arising from needless fear of death and of the gods.
 
----
+Philosophy? Snake's position? Player's?
+
+## eremitism
+
+> Eremitism, or the eremitic life, refers to a state of solitude and seclusion where a person lives a life of prayer, study, and self-discipline, often as a religious hermit or recluse. It is characterized by a deliberate choice to withdraw from the social world to focus on spiritual growth and connection with God. 
+
+Snake as hermit?
+
+## eroticism
+
+> the quality or character of being erotic.
+
+By assertion?
+
+## escapism
+
+> the tendency to seek distraction and relief from unpleasant realities, especially by seeking entertainment or engaging in fantasy.
+
+Well, player?
+
+## euphemism
+
+> a mild or indirect word or expression substituted for one considered to be too harsh or blunt when referring to something unpleasant or embarrassing.
+
+By assertion? Wouldn't want to overdo it but a couple of funny little assertions would be nice right?
+
+## exceptionalism
+
+> Exceptionalism is the belief that a particular entity, like a country, society, or even an individual, is unique, unusual, or extraordinary in some way, often implying superiority compared to others. It suggests that this entity deserves a different standard of evaluation or has a special role in the world. 
+
+The snake is exceptional no?
+
+## fetishism
+
+> a form of sexual behavior in which gratification is strongly linked to a particular object or activity or a part of the body other than the sexual organs.
+
+The apple as sexual object for the snake is nice. Sexy.
+
+## formalism
+
+> excessive adherence to prescribed forms.
+
+Seems fair.
+
+## functionalism
+
+> (in the arts) the doctrine that the design of an object should be determined solely by its function, rather than by aesthetic considerations, and that anything practically designed will be inherently beautiful.
+
+Asserting that the snake is beautiful?
+
+## futilitarianism
+
+> Futilitarianism is the belief that human striving and effort are ultimately futile or without purpose. It's a blend of the words "futile" and "utilitarian," suggesting a view that even maximizing utility or striving for benefit doesn't lead to meaningful outcomes. Essentially, futilitarianism is the idea that human endeavors are ultimately wasted or pointless. 
+
+Well I want more people to know about this.
+
+## giantism
+
+> a tendency toward abnormally large size; gigantism.
+
+Hehe.
+
+## hedonism
+
+> the pursuit of pleasure; sensual self-indulgence.
+
+The snake is a hedonist above all?
+
+## idealism
+
+> the practice of forming or pursuing ideals, especially unrealistically.
+
+Hehe
+
+## insularism
+
+> Insularism, at its core, means the state of being isolated or detached. It can also refer to a narrow-mindedness or illiberality of opinion, often associated with a limited perspective and unwillingness to consider different viewpoints. 
+
+Seems fair... quite like the more extended idea of a lack of perspective...
+
+## laconicism
+
+> Laconicism is the quality of being brief, concise, and using minimal words to express something. It's often associated with a style of speech or writing that is terse and to the point, as was favored by the Spartans of ancient Laconia. 
+
+The idea of brevity here.
+
+## lyricism
+
+> an artist's expression of emotion in an imaginative and beautiful way; the quality of being lyrical.
+
+I like the idea of asserting Snake is lyrically beautiful
+
+## up to M
