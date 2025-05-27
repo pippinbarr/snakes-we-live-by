@@ -52,6 +52,7 @@ The new Nudism, but religious. There are categories that can *imply* things abou
  
  See also:
  - deism
+ - monotheism
  etc.
  
  ### agritourism
@@ -332,4 +333,44 @@ The idea of brevity here.
 
 I like the idea of asserting Snake is lyrically beautiful
 
-## up to M
+## Machiavellianism
+
+> Machiavellianism, in a psychological context, is a personality trait characterized by manipulativeness, self-interest, and a tendency to see others as tools for personal gain. It is named after Niccolò Machiavelli, who argued that rulers should use whatever means necessary to maintain power. Machiavellianism is one of the traits that make up the "Dark Triad" of negative personality traits, along with narcissism and psychopathy. 
+
+Player as Machiavellian? Designer as?
+
+## masochism
+
+> the tendency to derive pleasure, especially sexual gratification, from one's own pain or humiliation.
+
+That's funny. And even communicates with the previous game's SADIST in a weird way.
+
+## materialism
+
+> a tendency to consider material possessions and physical comfort as more important than spiritual values.
+
+The apple the apple.
+
+## mechanism
+
+> a system of parts working together in a machine; a piece of machinery.
+
+I like this idea, Snake as a mechanism in which the player takes a position.
+
+## middlemanism
+
+> Middlemanism, according to {Merriam-Webster https://www.merriam-webster.com/dictionary/middlemanism}, is a system or practice that relies on the use of middlemen, who act as intermediaries in business dealings. Essentially, it refers to the reliance on individuals or organizations that facilitate transactions between producers and consumers, earning a profit by providing services like distribution, marketing, or negotiation, {according to multiple dictionaries and online resources https://www.oxfordreference.com/display/10.1093/oi/authority.20110803100156306, https://en.wiktionary.org/wiki/middlemanism, https://www.investopedia.com/terms/m/middleman.asp}. 
+
+Intriguing description of the player-avatar relationship? Avatar as middleman?
+
+## mimestism
+
+> Mimesis, derived from the Ancient Greek word mimesis (μίμησις), refers to the act of imitating or mimicking, especially in the context of art and culture. It also describes the process of representing or re-presenting the world around us, as seen in literary criticism and philosophy. In a broader sense, mimesis can encompass various forms of imitation, including behaviors, appearances, and even the presentation of the self. 
+
+copyism is similar though.
+
+## mysticism
+
+> belief that union with or absorption into the Deity or the absolute, or the spiritual apprehension of knowledge inaccessible to the intellect, may be attained through contemplation and self-surrender.
+
+Would be fun to have an ending point of the "poem" of the menu?

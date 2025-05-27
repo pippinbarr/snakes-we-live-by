@@ -1217,12 +1217,9 @@ Here are a lot of isms. How many of them are also Snake? From [the list of isms 
 - **lyricism**
 - lyrism
 - Lysenkoism
-
----
-
 - macaronism
 - Macaulayism
-- Machiavellism
+- **Machiavellism**
 - machinism
 - Machism
 - macroorchidism
@@ -1266,8 +1263,8 @@ Here are a lot of isms. How many of them are also Snake? From [the list of isms 
 - marranoism
 - martialism
 - Marxism
-- masochism
-- materialism
+- **masochism**
+- **materialism**
 - maternalism
 - matterism
 - maturism
@@ -1276,7 +1273,7 @@ Here are a lot of isms. How many of them are also Snake? From [the list of isms 
 - Mazdaism
 - McCarthyism
 - McKinleyism
-- mechanism
+- **mechanism**
 - mechanomorphism
 - medievalism
 - megaseism
@@ -1322,7 +1319,7 @@ Here are a lot of isms. How many of them are also Snake? From [the list of isms 
 - micropterism
 - microseism
 - middlebrowism
-- middlemanism
+- **middlemanism**
 - midgetism
 - militarism
 - militaryism
@@ -1332,7 +1329,7 @@ Here are a lot of isms. How many of them are also Snake? From [the list of isms 
 - millionairism
 - millionism
 - Miltonism
-- mimetism
+- **mimetism**
 - minimalism
 - miraculism
 - misanthropism
@@ -1379,7 +1376,7 @@ Here are a lot of isms. How many of them are also Snake? From [the list of isms 
 - monopsychism
 - monorchidism
 - monorchism
-- monotheism
+- **monotheism**
 - Monotheletism
 - Monothelism
 - Monothelitism
@@ -1413,8 +1410,13 @@ Here are a lot of isms. How many of them are also Snake? From [the list of isms 
 - myalism
 - mycetism
 - myrmecophilism
-- mysticism
+- **mysticism**
 - mytacism
+
+
+---
+
+
 - Naderism
 - nagualism
 - nanism
