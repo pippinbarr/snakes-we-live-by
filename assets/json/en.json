@@ -6,12 +6,27 @@
     ],
     "ui": {
         "games": [
-            "abranchialism",
-            "academicism",
-            "conservatism",
-            "individualism",
-            "nudism",
-            "purism"
+            "agroterrorism",
+            "alcoholism",
+            "arcadianism",
+            "auteurism",
+            "behaviorism",
+            "cannibalism",
+            "careerism",
+            "copyism",
+            "deism",
+            "escapism",
+            "euphemism",
+            "fetishism",
+            "formalism",
+            "futilitarianism",
+            "giantism",
+            "hedonism",
+            "idealism",
+            "lyricism",
+            "masochism",
+            "materialism",
+            "mechanism"
         ],
         "controls": {
             "keyboard": [
@@ -22,6 +37,18 @@
                 "SWIPES",
                 "CONTROL"
             ]
+        },
+        "definition": {
+            "instructions": {
+                "keyboard": [
+                    "RIGHT ARROW=CONTINUE",
+                    "M=MENU"
+                ],
+                "touch": [
+                    "SWIPE RIGHT=CONTINUE",
+                    "SWIPE LEFT=MENU"
+                ]
+            }
         },
         "reset": {
             "keyboard": [
@@ -55,56 +82,130 @@
             ]
         }
     },
-    "nudism": {
-        "menuName": "NUDISM",
-        "outro": [
-            "SNAKED."
-        ]
+    "agroterrorism": {
+        "definition": {
+            "part": "noun",
+            "definition": "lorem"
+        }
     },
-    "purism": {
-        "menuName": "PURISM",
-        "outro": [
-            "SNAKED."
-        ]
+    "alcoholism": {
+        "definition": {
+            "part": "noun",
+            "definition": "lorem"
+        }
     },
-    "conservatism": {
-        "menuName": "CONSERVATISM",
-        "outro": [
-            "SNAKED."
-        ]
+    "arcadianism": {
+        "definition": {
+            "part": "noun",
+            "definition": "lorem"
+        }
     },
-    "individualism": {
-        "menuName": "INDIVIDUALISM",
-        "outro": [
-            "SNAKED."
-        ]
+    "auteurism": {
+        "definition": {
+            "part": "noun",
+            "definition": "lorem"
+        }
     },
-    "abranchialism": {
-        "menuName": "abranchialism",
-        "outro": [
-            "SNAKED."
-        ]
+    "behaviorism": {
+        "definition": {
+            "part": "noun",
+            "definition": "lorem"
+        }
     },
-    "academicism": {
-        "menuName": "academicism",
-        "outro": [
-            "SNAKED."
-        ]
+    "cannibalism": {
+        "definition": {
+            "part": "noun",
+            "definition": "lorem"
+        }
     },
-    "achromatism": {
-        "menuName": "achromatism",
-        "outro": [
-            ""
-        ]
+    "careerism": {
+        "definition": {
+            "part": "noun",
+            "definition": "lorem"
+        }
     },
-    "actualism": {
-        "menuName": "actualism",
-        "outro": []
+    "copyism": {
+        "definition": {
+            "part": "noun",
+            "definition": "lorem"
+        }
     },
-    "adamitism": {
-        "menuName": "adamitism",
-        "outro": [
-            "JUST AS GOD MADE YOU"
-        ]
+    "deism": {
+        "definition": {
+            "part": "noun",
+            "definition": "lorem"
+        }
+    },
+    "escapism": {
+        "definition": {
+            "part": "noun",
+            "definition": "lorem"
+        }
+    },
+    "euphemism": {
+        "definition": {
+            "part": "noun",
+            "definition": "lorem"
+        }
+    },
+    "fetishism": {
+        "definition": {
+            "part": "noun",
+            "definition": "lorem"
+        }
+    },
+    "formalism": {
+        "definition": {
+            "part": "noun",
+            "definition": "lorem"
+        }
+    },
+    "futilitarianism": {
+        "definition": {
+            "part": "noun",
+            "definition": "lorem"
+        }
+    },
+    "giantism": {
+        "definition": {
+            "part": "noun",
+            "definition": "lorem"
+        }
+    },
+    "hedonism": {
+        "definition": {
+            "part": "noun",
+            "definition": "lorem"
+        }
+    },
+    "idealism": {
+        "definition": {
+            "part": "noun",
+            "definition": "lorem"
+        }
+    },
+    "lyricism": {
+        "definition": {
+            "part": "noun",
+            "definition": "lorem"
+        }
+    },
+    "masochism": {
+        "definition": {
+            "part": "noun",
+            "definition": "lorem"
+        }
+    },
+    "materialism": {
+        "definition": {
+            "part": "noun",
+            "definition": "lorem"
+        }
+    },
+    "mechanism": {
+        "definition": {
+            "part": "noun",
+            "definition": "lorem"
+        }
     }
 }

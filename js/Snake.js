@@ -418,11 +418,9 @@ class Snake extends Phaser.Scene {
         this.addTextToGrid(this.scoreX - scoreString.length, this.scoreY, [scoreString]);
     }
 
-    setGameOverText(gameOverString, spacing, gameOverPointsString, spacing2, gameOverResultString) {
+    setGameOverText(gameOverString, spacing, gameOverPointsString) {
         this.hideControls();
-        const gameOverResult = this.config.outro;
         this.addTextToGrid(this.OVER_X, this.OVER_Y, [gameOverString, spacing, gameOverPointsString]);
-        this.addTextToGrid(this.OVER_X, this.OVER_Y + 4, gameOverResult);
     }
 
     addTextToGrid(startX, startY, text, group, buttonGroup, callback) {

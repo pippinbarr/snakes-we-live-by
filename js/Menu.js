@@ -24,10 +24,11 @@ class Menu extends Snake {
     for (let game of this.strings.ui.games) {
       this.games.push({
         index: index,
-        title: this.strings[game].menuName,
-        state: game
+        title: game.toUpperCase(),
+        name: game
       });
       index++;
+      this.strings[game].definition.word = game;
     };
 
     this.selected = 0;
@@ -149,8 +150,7 @@ class Menu extends Snake {
 
   right() {
     let callback = () => {
-      const stateName = "snake";
-      this.scene.start(stateName, this.strings[stateName]);
+      this.scene.start("walloftext", this.games[this.selected]);
     }
 
     if (this.selected === this.games.length + 1) {

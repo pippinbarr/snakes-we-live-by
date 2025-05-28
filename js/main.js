@@ -13,6 +13,7 @@ let config = {
     Boot,
     Preloader,
     Menu,
+    Definition,
     Snake,
   ],
   render: {
