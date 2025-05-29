@@ -4,15 +4,15 @@ class Menu extends Snake {
     super({
       key: `menu`
     });
-
-    this.SNAKE_TICK = 0.03;
-    this.SNAKE_TITLE_Y = 2;
-    this.SNAKE_START_X = 0;
-    this.SNAKE_START_Y = 5;
-    this.SNAKE_MENU_Y = 5;
   }
 
   create() {
+    this.SNAKE_TICK = 0.03;
+    this.SNAKE_TITLE_Y = 2;
+    this.SNAKE_START_X = 0;
+    this.SNAKE_START_Y = 5 + (this.selected ? this.selected : 0);
+    this.SNAKE_MENU_Y = 5;
+
     super.create();
 
     this.delisted = localStorage.getItem("snakists-delisted") === "true";
@@ -31,7 +31,10 @@ class Menu extends Snake {
       this.strings[game].definition.word = game;
     };
 
-    this.selected = 0;
+    // Trying to get it to remember the menu position
+    if (!(this.selected >= 0)) {
+      this.selected = 0;
+    }
 
     this.menuButtons = this.add.group();
     this.menuText = this.add.group();
