@@ -14,7 +14,6 @@
             "cannibalism",
             "careerism",
             "copyism",
-            "deism",
             "escapism",
             "euphemism",
             "fetishism",
@@ -26,7 +25,8 @@
             "lyricism",
             "masochism",
             "materialism",
-            "mechanism"
+            "mechanism",
+            "monotheism"
         ],
         "controls": {
             "keyboard": [
@@ -206,6 +206,12 @@
         "definition": {
             "part": "noun",
             "definition": "a system of parts working together in a machine; a piece of machinery."
+        }
+    },
+    "monotheism": {
+        "definition": {
+            "part": "noun",
+            "definition": "The belief in a single deity (one god or goddess); especially within an organized religion."
         }
     }
 }
