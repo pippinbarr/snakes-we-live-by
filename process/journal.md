@@ -99,3 +99,91 @@ Well, sort of useful but I could have articulated this on my own being honest. I
 4. This ties back to a question I have had about this project which is: is this game design? I think the answer is yes, but it's interestingly minimal - more about setting intention/framing/context for play rather than designing the play (although it's therefore the assertion that the framing/intension is part of the design of the play)
 
 Anyway, I need to think more about how the isms apply. Where? Here? Traditionally here. But do I want to be Mr. Documents and have a document about that specific element of the design? Which is, to be honest, basically the entirety of the design?
+
+## Justified (2025-05-29)
+
+Want to spend a sec just going through the current set and justifying them to myself as well as trying to outline the "way" they work, with that whole idea of using the game to profile/point out different ways a title could relate to a work and thus inflect or change the experience of it. So.
+
+- agroterrorism
+
+The idea of kind of a negative view of what the Snake does. It's like a bioweapon going around eating all the apples/crops belonging to some assaulted party. The player becomes a bioweapon, kind of a "bad guy" situation. Changes the inflection of Snake where you're just doing what you do, to something where you're voracious and a problem.
+
+- alcoholism
+
+Of all of them perhaps a little too close to something genuinely sad? The idea of Snake as a metaphor for an addiction, the inability to say no to one more apple, seeking it out, contorting yourself to get it, risking death to get another drink. Importantly the recasting of the apple as a kind of negative-positive.
+
+- auteurism
+
+Could apply to the player but I'm thinking more of the occasional use of "auteur" in the context of videogames, the sole producer idea, and suggesting myself as an auteur in a kind of winky way. In a funny way me taking credit away from the Snake in this case?
+
+- behaviorism
+
+A classic downer view of videogames, that it's just a stimulus response situation without much going on in the way of complex emotion or thought. Snake is a fairly great distillation of that, a bit of a Pavlov's dog situation around the appearance of the apple. Human and animal cited in the definition, so there's a kind of nice symbiosis of human and snake there.
+
+- cannibalism
+
+A relatively simple assertion that the thing I call an apple or a fruit is now actually chunks of snake flesh and that the snake is eating them.
+
+- careerism
+
+Another "videogames are sad" one I guess, the idea of pursuing a quantifiable achievement/goal at the expense of the more complex/deeper beauties of life. One that operates at the level of the snake in the narrative of the game (only wants to eat apples) and the player of the game (wants to live essentially just to receive as many points as possible).
+
+- copyism
+
+A stab at the designer (kind of the opposite or contrast or tension with auterism maybe). I have literally just copied a game, making no substantive changes to it, and then said it's "mine" by giving it a new label.
+
+- escapism
+
+Another one at the level of players and videogame culture, the idea of games as an escape from the inconveniences of life. These are often a bit mean!?
+
+- euphemism
+
+I've oscillated on this one but I think it works in the end. The idea here is that the title asserts that the game of Snake you're playing is euphemistic for some other activity or idea. It doesn't tell you what it is, so you're left to imagine what it might actually be a euphemism for. It's like a challenge to imagine something like snake that incredibly embarrassing or gross or inappropriate in some way, thus defeating the euphemistic intent?
+
+- fetishism
+
+Funny it's right after euphemism. The snake maybe fetishes the apple in this scenario, so that the act of eating becomes sexualized. But the player may be fetishizing the snake at the same time, or being accused of that.
+
+- formalism
+
+Well I'm a formalist and this game is a formalism?
+
+- futilitarianism
+
+The idea that playing games is basically futile, that the snake's life can appear futile at some basic level - it's going to die in the end, there's not enough room for it at a bare minimum.
+
+- gigantism
+
+This one I don't totally adore except that I quite like how practical it is. The snake keeps getting bigger uncontrollably. The end.
+
+- hedonism
+
+A positive (kind of) casting of the activity of play as a pleasure (and thus justifiable) and likewise the activity of the snake eating apples as luxurious and worth it for the experience.
+
+- idealism
+
+The ideal being pursued here being a high score I guess? Ultimately it's "unattainable"? I don't know, maybe this is weaker than I'd actually like, but I enjoy the contrasts here with hedonism and futilitarianism? The idea that we can think about our play in such radically different and even directly contradictory perspectives is quite nice.
+
+- lyricism
+
+The assertion that the snake and the game itself is beautiful. The beautiful game.
+
+- masochism
+
+Another framing of play. The player is a masochist, deriving sexual pleasure from their inevitably failure. What a pervert.
+
+- materialism
+
+An obsession with material wealth in the form of point, in the form of apples.
+
+- mechanism
+
+The idea of the game (and the program, and the computer, and the player) as a mechanism smoothly functioning to create an experience.
+
+- monotheism
+
+An assertion at some level that the snake is religious and believes in a god. The god might be the player, the god might be me.
+
+---
+
+Having written all that: there's maybe a small wobble on "idealism" but even that one I think I ultimately like. I think there's a kind of nice spread and this does feel more philosophical than I'd entirely realized, so I think it's a positive OUTCOME.
