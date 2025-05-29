@@ -8,10 +8,13 @@ class Menu extends Snake {
 
   create() {
     this.SNAKE_TICK = 0.03;
+
     this.SNAKE_TITLE_Y = 2;
+
+    this.SNAKE_MENU_Y = 6;
+
     this.SNAKE_START_X = 0;
-    this.SNAKE_START_Y = 5 + (this.selected ? this.selected : 0);
-    this.SNAKE_MENU_Y = 5;
+    this.SNAKE_START_Y = this.SNAKE_MENU_Y + (this.selected ? this.selected : 0);
 
     super.create();
 
