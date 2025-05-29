@@ -2,7 +2,7 @@
 
 ![Banner](./images/snakes-we-live-by-banner.png)
 
-# [Play Online](../index.html) (Mobile and desktop)
+# Play Online (when it's ready)
 
 ## Description
 
