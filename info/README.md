@@ -10,6 +10,8 @@
 
 *SNAKISMS 2: Snakes We Live By, Volume 1: A-M* is a sequel to [*SNAKISMS*](https://pippinbarr.com/SNAKISMS/info/) based on the observation that some "isms" describe the basic game of Snake (or its player, or its designer) from different philosophical/political/social/other positions.
 
+This game was an invited contribution to [*Game Poems* #1: First Moves](https://www.gamepoems.com/issue01/).
+
 *SNAKISMS 2: Snakes We Live By, Volume 1: A-M* was created using [Phaser 3](https://phaser.io/).
 
 ## Press
